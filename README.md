@@ -1,1 +1,1 @@
-
+The contents of this project entail a singular jupyter notebook. Through this project I demonstrate the ability to extract data from the given dataframe and visualise heatmaps and clustermaps using Seaborn. 
